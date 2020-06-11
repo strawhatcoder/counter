@@ -1,6 +1,6 @@
 # Counter
 
-Help keep track of count.
+Help keep track of count. (Will not go below 0)
 
 Operations:
 - Add One
